@@ -1,2 +1,2 @@
 # planet
-A simple planet scene build with three.js
+A simple planet scene built with [three.js](http://threejs.org)
